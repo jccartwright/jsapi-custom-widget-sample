@@ -1,0 +1,24 @@
+{
+  "name": "jsapi-custom-widget-sample",
+  "version": "1.0.0",
+  "description": "ArcGIS JSAPI 4.x custom widget samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jccartwright/jsapi-custom-widget-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jccartwright/jsapi-custom-widget-sample/issues"
+  },
+  "homepage": "https://github.com/jccartwright/jsapi-custom-widget-sample#readme",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.18.0",
+    "tslib": "^2.1.0"
+  }
+}
